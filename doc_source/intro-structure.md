@@ -14,8 +14,7 @@ Before you create users, you should understand how IAM works\. IAM provides the 
 
 ## Principal<a name="intro-structure-principal"></a>
 
-## A principal is an entity that can take an action on an AWS resource\. 
-+ Your administrative IAM user is your first *principal*\. Over time, you can allow users and services to assume a role\. You can support federated users or programmatic access to allow an application to access your AWS account\. Users, roles, federated users, and applications are all AWS principals\.
+A principal is an entity that can take an action on an AWS resource\. Your administrative IAM user is your first *principal*\. Over time, you can allow users and services to assume a role\. You can support federated users or programmatic access to allow an application to access your AWS account\. Users, roles, federated users, and applications are all AWS principals\.
 
 ## Request<a name="intro-structure-request"></a>
 
